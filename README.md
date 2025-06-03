@@ -1,5 +1,7 @@
 # Fivem-Discord-Bot
 
+https://cdn.discordapp.com/attachments/1379384495148634216/1379389915997016125/c33c0d6b1ff3cce1264987b6d6064d76.jpg?ex=68401077&is=683ebef7&hm=41381334a67f2b394facd6df2bbc81e680dc2797455a4739be2cd16c7f86bca4&
+
 With this all you have to do is edit the config add in all your details with your bot token and your guild server id.
 and where you want the panel to be sent it automaticly sends a panel to that channel if you put in a id for the channel.
 

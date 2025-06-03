@@ -7,3 +7,11 @@ TOKEN = "" #discord bot token
 GUILD_ID = 123456789  # replace with your server's ID (as an integer)
 VERIFICATION_CHANNEL_ID = 123456789  # channel ID for verification messages
 LOG_CHANNEL_ID = 123456789 # or a channel ID (as int) or None
+
+if the panel instantly gets deleted it could be another bot deleting the message 
+
+
+Server Members Intent.
+enable this in the discord develeper portal to  make the bot work 
+
+any problems join https://discord.gg/QqgHey7hfv
